@@ -28,6 +28,7 @@
 #a = "Error is %d%%"%98#진짜%를쓰고싶음%%를쓰기
 #print(a)
 #------------------
-command = input("종료할까요? ")#대문자나 소문자를 입력할지 모르니 하나로 바꿔주기
-command = command.lower()
-print(command)
+#command = input("종료할까요? ")#대문자나 소문자를 입력할지 모르니 하나로 바꿔주기
+#command = command.lower()
+#print(command)
+#------------------
