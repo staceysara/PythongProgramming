@@ -47,7 +47,7 @@ class crawler:
             newpage = set()
             for page in pages:
                 try:
-                    c = urllib.request.urlopen(page)
+                    c = urlopen(page)
                 except:
                     print("Could not open %s" %page)
                     continue
@@ -56,13 +56,13 @@ class crawler:
                 links = soup('a')
                 for link in links:
                     if('href' in dict(link.attrs)):
-                        url = urllib.parse.urljoin(page,link['href'])
+                        url = urljoin(page,link['href'])
                         if url.find("'")!=-1: continue
                         url = url.split("#")[0]
                         if url[0:4]=='http':
                             newpage.add(url)
-                pages = newpage
+                    pages = newpage
               
-pagelist=['session.blog.naver.com']
+pagelist=['www.naver.com']
 crawler = crawler()
 crawler.crawl(pagelist)
