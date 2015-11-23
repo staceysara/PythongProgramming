@@ -1,0 +1,15 @@
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\attach_server.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\visualstudio_py_debugger.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\visualstudio_py_repl.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\visualstudio_py_util.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\__init__.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\__main__.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\bin\AzureSetup.cfg
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\bin\wfastcgi.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\ptvs_virtualenv_proxy.py
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\web.config
+C:\Users\IM-29\Desktop\Project1123TestFlask\Project1123TestFlask\obj\Debug\web.debug.config
